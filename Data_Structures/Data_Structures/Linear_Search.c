@@ -11,19 +11,22 @@ int LSerch(int ar[], int len, int target) {
 	return -1;
 }
 
+int printLinear(int idx) {
+	if (idx == -1)
+		printf("Å½»ö½ÇÆĞ \n");
+	else
+		printf("Å¸°Ù ÀúÀå ÀÎµ¦½º: %d \n", idx);
+}
+
 int main(void) {
 	int arr[] = { 3,5,2,4,9 };
 	int idx;
 
 	idx = LSerch(arr, sizeof(arr) / sizeof(int), 4);
-	if (idx == -1)
-		printf("Å½»ö½ÇÆĞ \n");
-	else
-		printf("Å¸°Ù ÀúÀå ÀÎµ¦½º: %d \n", idx);
+	printLinear(idx);
 
 	idx = LSerch(arr, sizeof(arr) / sizeof(int), 7);
-	if (idx == -1)
-		printf("Å½»ö½ÇÆĞ \n");
-	else
-		printf("Å¸°Ù ÀúÀå ÀÎµ¦½º: %d \n", idx);
+	printLinear(idx);
+
+	return 0;
 }
