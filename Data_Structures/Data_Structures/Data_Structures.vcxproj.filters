@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Linear_Search.c">
+    <ClCompile Include="Search_Binary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Binary_Search.c">
+    <ClCompile Include="Search_Linear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursive_Func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursive_Factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursive_Fibonacci.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileInOutput.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HanoiTowerSolu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

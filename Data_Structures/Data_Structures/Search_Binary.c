@@ -1,5 +1,6 @@
 //Binary_Serch(ÀÌÁø Å½»ö)
 #include <stdio.h>
+#pragma warning (disable:4996)
 
 int BSearch(int ar[], int len, int target);
 int printLinear(int idx);

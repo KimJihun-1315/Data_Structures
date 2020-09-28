@@ -1,5 +1,6 @@
 //Linear_Serch(¼øÂ÷ Å½»ö)
 #include <stdio.h>
+#pragma warning (disable:4996)
 
 int LSerch(int ar[], int len, int target);
 int printLinear(int idx);
