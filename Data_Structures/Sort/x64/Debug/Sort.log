@@ -1,0 +1,6 @@
+﻿  SelectSort.c
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Sort\SelectSort.c(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Sort\SelectSort.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Sort\SelectSort.c(7,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+SelectSort.obj : error LNK2005: main이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\x64\Debug\Sort.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
