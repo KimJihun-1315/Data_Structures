@@ -1,6 +1,6 @@
 ﻿  main.c
-C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(237,37): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(238,37): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(239,33): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(211,10): warning C4101: 'scanchar' :참조되지 않은 지역 변수입니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(207,37): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(208,37): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(209,33): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\Student_control\main.c(179,10): warning C4101: 'scanchar' :참조되지 않은 지역 변수입니다.
   Student_control.vcxproj -> C:\Users\KIMJIHUN\source\repos\Data_Structures\Data_Structures\x64\Debug\Student_control.exe
