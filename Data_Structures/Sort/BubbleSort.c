@@ -2,10 +2,10 @@
 //오름차순 정렬
 
 #include<stdio.h>
-#define num 10
+#define num 5
 
 int main() {
-	int array[num] = { 153, 56, 9, 3, 26, 33, 99, 793, 47, 999 };
+	int array[num] = { 567, 12, 766, 2, 34 };
 	int i, j;
 	int temp;
 
