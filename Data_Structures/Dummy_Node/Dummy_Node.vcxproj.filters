@@ -23,7 +23,7 @@
     <ClCompile Include="DLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DLinkedListMain.c">
+    <ClCompile Include="DLinkedList_Main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
