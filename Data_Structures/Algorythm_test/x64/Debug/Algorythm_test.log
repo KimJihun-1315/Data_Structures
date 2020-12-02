@@ -1,0 +1,4 @@
+﻿  QnA_01.c
+C:\Users\rlawl\source\GitHub\Data_Structures\Data_Structures\Algorythm_test\QnA_01.c(20,107): error C2078: 이니셜라이저가 너무 많습니다.
+C:\Users\rlawl\source\GitHub\Data_Structures\Data_Structures\Algorythm_test\QnA_01.c(27,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\rlawl\source\GitHub\Data_Structures\Data_Structures\Algorythm_test\QnA_01.c(20,7): error C2078: 이니셜라이저가 너무 많습니다.
