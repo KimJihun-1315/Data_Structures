@@ -17,7 +17,7 @@
 #pragma warning(disable: 4996)
 
 int main() {
-	char color[11] = { "black", "brown", "red","orange", "yellow", "green", "blue", "violet" "grey", "white" };
+	char color[12] = { "black", "brown", "red","orange", "yellow", "green", "blue", "violet" "grey", "white" };
 	char input_text;
 	int value[3];
 	long long r = 0;
