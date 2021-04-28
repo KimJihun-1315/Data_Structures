@@ -1,3 +1,4 @@
+#pragma warning(disable:4996)
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -93,7 +94,7 @@ void menu() {
             return;
         }
         break;
-    default:       //1,2,3,4외의 숫자를 입력시 ERRO출력
+    default:       //1,2,3,4외의 숫자를 입력시 ERROR출력
         printf("\n   ERROR : 보기중 하나를 선택하시오. \n");
         return;
     }
